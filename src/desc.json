@@ -1,0 +1,86 @@
+[
+    {
+      "name":"Aditya",
+      "add":"PKR",
+      "phone":"985100000",
+      "nat":"Nepali",
+      "gen":"Male",
+      "house":"1",
+      "tole":"abc"
+    },
+    {
+      "name":"Sagar",
+      "add":"ABC",
+      "phone":"984200000",
+      "nat":"Nepali",
+      "gen":"Male",
+      "house":"2",
+      "tole":"abc"
+
+    },
+    {
+      "name":"Bibek",
+      "add":"KTM",
+      "phone":"984100000",
+      "nat":"Aus",
+      "gen":"Male",
+      "house":"3",
+      "tole":"abc"
+
+    },{
+      "name":"Dinesh",
+      "add":"ABC",
+      "phone":"984200000",
+      "nat":"Nepali",
+      "gen":"Male",
+      "house":"2",
+      "tole":"abc"
+
+    },{
+      "name":"Catline",
+      "add":"ABC",
+      "phone":"984200000",
+      "nat":"Nepali",
+      "gen":"Female",
+      "house":"2",
+      "tole":"abc"
+
+    },{
+      "name":"Zach",
+      "add":"ABC",
+      "phone":"984200000",
+      "nat":"Nepali",
+      "gen":"Female",
+      "house":"2",
+      "tole":"zbc"
+
+    },{
+      "name":"Jackie",
+      "add":"ABC",
+      "phone":"984200000",
+      "nat":"Nepali",
+      "gen":"Female",
+      "house":"2",
+      "tole":"abc"
+
+    },{
+      "name":"Jackie",
+      "add":"ABC",
+      "phone":"984200000",
+      "nat":"Nepali",
+      "gen":"Female",
+      "house":"2",
+      "tole":"abc"
+
+    },{
+      "name":"Zackie",
+      "add":"ABC",
+      "phone":"984200000",
+      "nat":"Nepali",
+      "gen":"Female",
+      "house":"2",
+      "tole":"abc"
+
+    }
+  ]
+
